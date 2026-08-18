@@ -1,0 +1,2 @@
+playwright>=1.40
+# 其余均为 Python 标准库（urllib/csv/json/re/glob），无需额外安装

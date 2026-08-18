@@ -1,0 +1,7 @@
+# dsh-plugin-geo-monitoring — Cordis mount patch
+# Mount in a profile patch or agent preset:
+#   - id: geo-monitoring
+#     name: dsh-plugin-geo-monitoring
+- insert:
+    - id: geo-monitoring
+      name: dsh-plugin-geo-monitoring
